@@ -1,0 +1,24 @@
+agora eu quero que vocÊ implemente as seguintes funcionalidades (com dados mockados):
+um sistema de pontos, o usuário acumula pontos, ele pode completar os desafios existentes , o que dá pontos, deve também existir uma seção de quiz , onde existira um quiz com 5 perguntas com 5 possiveis respostas cada(1 correta), ao finalizar o quiz, o usuário acumulara 100 pontos por pergunta correta, o quiz poderá ser gerado por um botão recarregar quiz,(use varrios "quizes" mockados para variar cada quiz , cada quiz deve ter perguntas diferentes)
+voce deve criar também uma página estática(sem funcionalidades chamad conscientização)
+Por favor, gerar uma página web em React e TypeScript que conscientize sobre sustentabilidade global dentro de um só fluxo de texto: inclua um titulo principal com impacto e uma introdução contextualizando a urgência ambiental. Em seguida, apresente seções informativas com estatísticas reais atualizadas entre 2022 e 2024, por exemplo: “em 2023 a capacidade global de energia renovável cresceu 50 %, com acréscimo de 510 GW — o maior em 20 anos”
+umsoplaneta.globo.com
++2
+theguardian.com
++2
+economia.ig.com.br
++2
+; destaque que “as fontes renováveis passaram a gerar 30 % da eletricidade mundial em 2023 (solar +23,2 %, eólica +9,8 %)”
+reuters.com
+; e também informe que o Dia da Sobrecarga da Terra caiu em 1° de agosto de 2024, quando ultrapassamos os limites anuais do planeta utilizando recursos 1,7 vezes mais rápido do que ele pode regenerar
+genevaenvironmentnetwork.org
++5
+wwf.org.br
++5
+myclimate.org
++5
+. Inclua também dados sobre energia hidrelétrica, lembrando que ela foi responsável por cerca de 15 % da eletricidade global em 2023, com produção próxima a 4 210 TWh
+pt.wikipedia.org
+.
+Peça que o layout seja dividido em componentes reutilizáveis como Header, StatisticsCard, Chart e CTA, usando CSS Modules ou styled‑components. Solicite ainda a geração de um gráfico interativo (barra ou pizza) com biblioteca como Chart.js ou Recharts, exibindo a evolução da energia renovável entre 2022 e 2024. Os cards de estatísticas devem receber via props: título, valor, explicação e fonte (em APA). Termine com uma chamada para ação simples, sugerindo hábitos como reduzir consumo de plástico, utilizar transporte ativo, economizar energia e apoiar energias verdes. Inclua um rodapé com referências completas em APA.
+
